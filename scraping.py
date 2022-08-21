@@ -100,8 +100,3 @@ def mars_facts():
 if __name__ == "__main__":
     # if running as a script, print scraped data
     print(scrape_all())
-
-
-
-
-
