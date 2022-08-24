@@ -11,6 +11,6 @@ The code was added as a function to our existing scraping script. After the func
 ![scrape all](/Resources/scrape_all.PNG)
 
 ## Results
-The data was successfully scraped and displayed in the app. After the new data was added bootstrap components were used to make the app mobile responsive, along with some other stylings. 
+The data was successfully scraped and displayed in the app. After the new data was added bootstrap components were used to make the app mobile responsive. The button and hemisphere thumbnail colors were also changed. 
 
 ![responsive](/Resources/responsive.PNG) ![responsive2](/Resources/responsive2.PNG)
